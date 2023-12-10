@@ -1,94 +1,95 @@
 # ZK Credo
 
-## Freedom → Progress → Prosperity
+## Wolność → Postęp → Dobrobyt
 
 ![Freedom → Progress → Prosperity](freedom-progress-prosperity.jpeg)
 
-History shows us how technology can expand personal freedoms, unleashing creativity and innovation, leading to progress and prosperity.
+Historia pokazuje nam, jak technologia może rozszerzać wolności osobiste, uwalniając kreatywność i innowacje, prowadząc do postępu i dobrobytu.
 
-Early civilizations used bookkeeping and ledgers to track transactions, empowering individuals and communities to manage their finances and cooperate. The printing press democratized knowledge by making information affordable, sparking critical thinking and scientific advancement.
+Wczesne cywilizacje prowadziły księgi rachunkowe, aby śledzić transakcje, umożliwiając jednostkom i społecznościom zarządzanie finansami oraz kooperację. Wynalezienie druku zdemokratyzowało wiedzę, poprzez powszechne udostępnienie informacji dla każdego, co pobudzało myślenie krytyczne oraz postęp naukowy.
 
-The Industrial Revolution, powered by the technological breakthroughs of the steam engine and mechanization, propelled unprecedented economic and societal prosperity.
+Rewolucja Przemysłowa, napędzona technologicznymi przełomami takimi jak wynalezienie silnika parowego oraz dzięki mechanizacji, doprowadziła do niespotykanego do tej pory dobrobytu gospodarczego i społecznego.
 
-In the twentieth century, the rise of cryptography and the Internet transformed communication and information access. This expansion of personal freedoms created economic opportunities for billions of people.
+W dwudziestym wieku powstanie kryptografii oraz internetu spowodowało transformację komunikacji oraz dostępu do informacji. To poszerzenie osobistych swobód utworzyło możliwości ekonomiczne dla miliardów ludzi.
 
-Today, we're at the dawn of a new era with blockchains and Web3. Like the Internet once did for information, Web3 is changing the landscape for digital ownership and value exchange. It offers promising new forms of societal organization, e.g. "network states" [^1].
+Dziś stoimy u progu nowej ery blokchain oraz Web3. Podobnie jak Internet kiedyś zmienił dostęp do informacji, tak Web3 zmienia obraz cyfrowego posiadania oraz wymiany wartości. Oferuje obiecujące, nowe formy organizacji społecznej, na przykład "stany sieciowe" [^1].
 
-The journey through the waves of the cryptographic revolution is ongoing. With public-key cryptography and blockchains marking the first and second waves, we now face the third: the ZK Revolution. Coupled with Web3, the ZK Revolution is set to redefine our collective future, standing as testament to technology's power to unlock personal freedom.
+Podróż poprzez fale kryptograficznej rewolucji trwa. Po kryptografii klucza publicznego oraz blockchainach, które zaznaczyły pierwszą i drugą falę, stoimy w obliczu trzeciej: Rewolucji ZK (Zero Knowledge). W połączeniu z Web3, Rewolucja ZK ma na celu zdefiniowanie naszej wspólnej przyszłości, stanowiąc świadectwo potęgi technologii w odblokowywaniu wolności osobistej.
 
-## The ZK Revolution
+## Rewolucja ZK
 
 ![ZK Revolution](zk-revolution.jpeg)
 
-"ZK" is a term with two meanings. Initially, it stood for "Zero-Knowledge (Proofs)", or, if you insist, "Zipped by Kryptography" [^2]. Today, "ZK" embodies a certain bigger idea, encapsulated in three properties: Integrity, Privacy, and Magic.
+"ZK" to termin o dwóch znaczeniach. Pierwotnie oznaczał "Zero-Knowledge (Proofs)", lub, jeśli nalegasz, "Zipped by Kryptography" [^2]. Dziś "ZK" łączy w sobie pewną większą ideę, zawartą w trzech właściwościach: Uczciwości, Prywatności i Magii.
 
-### Integrity
+### Uczciwość
 
-*“Integrity is doing the right thing... even when no one else is looking or will ever know.”* [^3]
+*“Uczciwość to robienie właściwej rzeczy... nawet gdy nikt inny nie patrzy ani nigdy się nie dowie.”* [^3]
 
-ZK echoes the "don't trust, verify" ethos foundational to mathematics, open source, and blockchains. Computational integrity, enabled at any scale by recursive ZK proofs, is the cornerstone of this element.
+ZK rezonuje z etosem "nie ufaj, weryfikuj", który leży u podstaw matematyki, oprogramowania open source oraz blockchainów. Uczciwość obliczeń, umożliwiona na dowolną skalę przez rekurencyjne dowody ZK, stanowi fundament tego obszaru.
 
-### Privacy
+### Prywatność
 
-“*Privacy is necessary for an open society in the electronic age.”* [^4]
+“*Prywatność jest niezbędna otwartemu społeczeństwu w erze elektronicznej.”* [^4]
 
-In the blockchain sphere, privacy, viewed as a fundamental right, poses challenges uniquely addressed by ZK. Privacy shouldn't be a gift given to us; it's a fundamental right we must assert and defend together.
+W sferze blockchain, prywatność, postrzegana jako fundamentalne prawo, stwarza wyzwania, które są rozwiązywane przez ZK. Prywatność nie powinna być darem, który otrzymujemy; to fundamentalne prawo, które musimy wspólnie utrzymywać i bronić.
 
-### Magic
+### Magia
 
-*“Any sufficiently advanced technology is indistinguishable from magic.”* [^5]
+*“Jakakolwiek dostatecznie zaawansowana technologia jest nieodróżnialna od magii”* [^5]
 
-ZK, endearingly dubbed "Magic Moon Math," is a marvel of technology. It makes the cumbersome simple, converting intricate operations into effortless clicks. It enables integrated systems, where components seamlessly synchronize. Above all, it weaves these wonders while honoring user privacy and control.
+ZK, pieszczotliwie nazywane "Magiczną Księżycową Matematyką", to cud technologii. Sprawia, że coś uciążliwego staje się proste, zamieniając zawiłe operacje w kilka kliknięć. Umożliwia zintegrowane systemy, gdzie składniki płynnie się synchronizują. Ponadto umożliwia te cuda, jednocześnie szanując prywatność i kontrolę użytkownika.
 
-## The ZK Principles
+## Prawa ZK
 
 ![ZK Principles](zk-principles.jpeg)
 
-We believe that to serve as the foundation of the Internet of Value, decentralized networks must adhere to the following principles:
+Wierzymy, że aby służyć jako fundament Internetu Wartości, zdecentralizowane sieci muszą przestrzegać poniższych zasad:
 
-> **Trustlessness.** Users must be able to verify the integrity of transactions and the network state independently, without relying on others.
+> **Brak konieczności ufania.** Użytkownicy muszą być w stanie niezależnie zweryfikować uczciwość transakcji oraz stanu sieci, bez konieczności polegania na innych.
 > 
-> **Security.** An attack on any individual user must be as difficult and expensive as attacking the entire network, even for the world’s most powerful actors.
+> **Bezpieczeństwo.** Atak na dowolnego użytkownika musi być tak trudny i kosztowny, jak atak na całą sieć, nawet dla najbardziej wpływowych podmiotów na świecie.
 > 
-> **Reliability.** The network must consistently and correctly perform its function without failure.
+> **Niezawodność.**  Sieć musi konsekwentnie i poprawnie wykonywać swoje funkcje bez pomyłek.
 > 
-> **Censorship-Resistance.** Users must have the ability to transact on the network without needing permission from anyone.
+> **Odporność na cenzurę.** Użytkownicy muszą mieć możliwość dokonywania transakcji w sieci bez konieczności uzyskania zgody od kogokolwiek.
 > 
-> **Privacy.** Users must be able to protect their identities and transaction details. Sensitive information is not shared with others in the network without the consent of users.
+> **Prywatność.** Użytkownicy muszą mieć możliwość ochrony swojej tożsamości oraz szczegółów transakcji. Wrażliwe informacje nie mogą być udostępniane innym w sieci bez zgody użytkowników.
 > 
-> **Hyperscalability.** The network must have the capacity to grow with no upper bound while preserving all other critical properties.
+> **Hiperskalowalność.** Sieć musi mieć zdolność do nieograniczonego rozwoju, jednocześnie zachowując wszystkie inne istotne właściwości.
 > 
-> **Accessibility.** Applications and services on the network must be as affordable, easy-to-use and safe as state-of-the-art centralized alternatives.
+> **Dostępność.** Aplikacje i usługi w sieci muszą być tak samo dostępne, łatwe w użyciu i bezpieczne jak najnowocześniejsze zcentralizowane alternatywy.
 > 
-> **Sovereignty.** Any group of users, even a minority, must have the right to exit — i.e., fork away from the network, while taking their assets with them at a minimal cost.
+> **Suwerenność.** Każda grupa użytkowników, nawet mniejszościowa, musi mieć prawo do wyjścia, czyli odłączenia się od sieci, zabierając ze sobą swoje aktywa przy minimalnych kosztach.
 
-At present, Ethereum comes closest to realizing the vision of a blockchain network forming the backbone of the Internet of Value. It stands as a trustless, secure, reliable, censorship-resistant, and sovereign network. However, it currently does not meet the remaining prerequisites: privacy, hyperscalability, and accessibility.
+Obecnie Ethereum najbardziej zbliża się do realizacji wizji blockchainowej sieci stanowiącej kręgosłup Internetu Wartości. Funkcjonuje jako sieć pozbawiona konieczności zaufania, bezpieczna, niezawodna, odporna na cenzurę oraz suwerenna. Niemniej jednak w chwili obecnej nie spełnia pozostałych warunków wizji: prywatności, hiperskalowalności oraz dostępności.
 
-Through ZK magic, Web3 on Ethereum can become a stronghold for privacy and achieve limitless scalability while maintaining integrity. In this transformative state, it will be an accessible and affordable sanctuary for digital self-ownership. 
+Dzięki magii ZK, Web3 zbudowane na Ethereum może stać się ostoją prywatności i osiągnąć nieograniczoną skalowalność, jednocześnie zachowując uczciwość. W tym transformowalnym stanie stanie się dostępnym i przystępnym sanktuarium dla cyfrowego samodzielnego posiadania.
 
-It aligns with the ZK vision and will empower individuals globally, regardless of location. By unlocking these capabilities, a new wave of freedom, progress, and prosperity, will impact lives globally.
+To współgra z wizją ZK i wzmocni jednostki na całym świecie, niezależnie od lokalizacji. Odblokowanie tych możliwości rozpocznie nową falę wolności, postępu i dobrobytu, wpływającą na życie ludzi na całym świecie.
 
-## The Collective Action
+## Wspólne działanie
 
 ![The Collective Action](the-collective-action.jpeg)
 
-ZK Principles empower a network where trust in operators is not needed to secure users' assets and control. Even if the Lord Voldemort had access to our servers, they couldn't harm users' ownership or control their assets.
+"Prawa ZK" uprawniają sieć, w której zaufanie do operatorów nie jest potrzebne do zabezpieczania aktywów i kontroli stanowionej przez użytkowników. Nawet jeśli Lord Voldemort miałby dostęp do naszych serwerów, nie byłby w stanie zaszkodzić prawu do posiadania ani kontrolować aktywów użytkowników.
 
-However, technology evolves and so do blockchains. The ZK Principles can’t be fully safeguarded through technology alone. To ensure lasting protection, the community must deeply embrace the elusive concept of decentralization.
+Jakkolwiek technologia ewoluuje, podobnie do blockchainów. Prawa ZK nie mogą być w pełni zabezpieczone wyłącznie przez technologię. Aby zapewnić trwałą ochronę, społeczność musi wynieść na piedestał nieuchwytną koncepcję decentralizacji.
 
-If a network possesses all the mentioned attributes but its governance falls into the hands of a privileged few, it is destined to fail. Such few will tweak the rules for personal gain, eroding network value. The Internet’s history serves as a cautionary tale. Its inception promised decentralization, but over time user data and traffic fell into the control of a few tech giants, shaping the digital landscape to their advantage.
+Jeśli sieć posiada wszelkie wymienione atrybuty, ale zarządzanie nią spada w ręce uprzywilejowanych nielicznych, jest skazana na niepowodzenie. Ci nieliczni dostosują zasady dla własnej korzyści, niszcząc wartość sieci. Historia Internetu stanowi przestrogę. Jego początki obiecywały decentralizację, ale z czasem dane użytkowników oraz ruch internetowy znalazły się pod kontrolą nielicznych gigantów technologicznych, którzy ukształtowali krajobraz cyfrowy na ich korzyść.
 
-To avoid this fate, we believe that the ZK community must be fiercely sovereign by elevating the right to exit into a moral obligation. When the network deviates from its principles, the community must unite and uphold these values by migrating to a new network.
+Aby uniknąć tego losu, wierzymy, że społeczność ZK musi być zdecydowanie suwerenna, przez wzniesienie prawa do wyjścia do roli obowiązku moralnego. Kiedy sieć zacznie odbiegać od swoich zasad, społeczność musi się zjednoczyć i poprzeć swoje wartości, migrując do nowej sieci.
 
-Identifying such an erosion of values is not trivial: oppression is often subtle, slowly chipping away at freedom. Oppressors may also publicly punish dissenters to instill fear and encourage *collective inaction*.
+Identyfikacja takiej erozji wartości nie jest łatwa: ucisk jest często subtelny, stopniowo podgryza wolność. Wywierający nacisk mogą również publicznie karać niezgadzających się, aby zasiać strach i zachęcić do *zbiorowej bezczynności*.
 
 Against these tactics, *collective action* is essential. The community must protect minorities and celebrate those who bravely defy oppression. To embed this collective commitment deeply in the community is vital to preserving freedom in the Internet of Value.
+Przeciwko takim działaniom, *działanie zbiorowe* jest niezbędne. Społeczność musi chronić mniejszości i celebrować tych, którzy odważnie przeciwstawiają się uciskowi. Wbicie tego zbiorowego zaangażowania głęboko w społeczność jest kluczowe dla zachowania wolności Internetu Wartości.
 
-Realizing these principles requires time and perseverance. A steady, pragmatic approach to decentralization is needed. While short-term compromises might be made, the unwavering long-term vision remains: advancing personal freedom for all.
+Realizacja tych praw wymaga czasu oraz wytrwałości. Konieczne jest systematyczne, pragmatyczne podejście do decentralizacji. Choć możliwe są krótkoterminowe kompromisy, niezachwiana długoterminowa wizja pozostaje niezmienna: rozwijanie osobistej wolności dla wszystkich.
 
-Let us remain resolute in championing digital self-ownership.
+Pozostańmy nieugięci w obronie cyfrowego samodzielnego posiadania.
 
-Onward.
+Naprzód!
 
 [^1]: [The Network State](https://thenetworkstate.com/the-network-state-in-one-sentence).
 [^2]: [Zipped by Kryptography](https://twitter.com/vitalikbuterin/status/1309298689156866048)
