@@ -6,7 +6,7 @@
 
 History shows us how technology can expand personal freedoms, unleashing creativity and innovation, leading to progress and prosperity.
 
-Early civilizations used bookkeeping and ledgers to track transactions, empowering individuals and communities to manage their finances and cooperate. The printing press democratized knowledge by making information affordable, sparking critical thinking and scientific advancement.
+Early civilizations used bookkeeping and ledgers to track transactions, empowering individualsnd communities to manage their finances and cooperate. The printing press democratized knowledge by making information affordable, sparking critical thinking and scientific advancement.
 
 The Industrial Revolution, powered by the technological breakthroughs of the steam engine and mechanization, propelled unprecedented economic and societal prosperity.
 
